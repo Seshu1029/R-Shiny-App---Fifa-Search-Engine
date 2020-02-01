@@ -1,1 +1,1 @@
-# R-Shiny Applicatio : FIFA Search Engine
+# R-Shiny Application : FIFA Search Engine
